@@ -1,0 +1,10 @@
+ Volume in drive C is PC COE
+ Volume Serial Number is F85D-F0B6
+
+ Directory of C:\Users\mallickh\Desktop\MyProject
+
+04/05/2017  10:36 AM    <DIR>          .
+04/05/2017  10:36 AM    <DIR>          ..
+04/05/2017  10:36 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  80,219,795,456 bytes free
